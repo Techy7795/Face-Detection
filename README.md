@@ -18,13 +18,7 @@ git clone https://github.com/yourusername/face-detection-recognition.git
 cd face-detection-recognition
 ```
 
-2. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the Flask application:
+2. Run the Flask application:
 
 ```bash
 python main.py
