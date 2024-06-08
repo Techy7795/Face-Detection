@@ -41,11 +41,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 2. Make your changes and ensure that the code follows the style and conventions of the project.
 3. Write tests for your code, if applicable.
 4. Submit a pull request detailing your changes and the problem they solve.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README file further to provide more details about your project, such as additional features, usage examples, or deployment instructions.
