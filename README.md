@@ -14,7 +14,7 @@ This Flask web application provides real-time face detection and recognition cap
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/face-detection-recognition.git
+git clone https://github.com/Techy7795/face-detection-recognition.git
 cd face-detection-recognition
 ```
 
